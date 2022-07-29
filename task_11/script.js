@@ -21,3 +21,4 @@ function average_grade(input_array) {
 
 myJSTestResults = [40, 60, 80, 80, 85];
 document.getElementById("myGrades").innerHTML = average_grade(myJSTestResults);
+
